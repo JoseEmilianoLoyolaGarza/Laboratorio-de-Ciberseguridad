@@ -1,0 +1,39 @@
+[0x0a]
+Install=1
+Mandatory=0
+ShowInfo=0
+Message=Actualización automática de Visual Chart 3
+URLInfo=http://www.visualchart.com/vchartredirect.asp?id=10&lang=ES
+File=Update3076.exe
+MinimalVer=3.0.0.0
+CurrentVer=3.0.7.6
+
+[0x09]
+Install=1
+Mandatory=0
+ShowInfo=0
+Message=Automatic updating for Visual Chart 3
+URLInfo=http://www.visualchart.com/vchartredirect.asp?id=10&lang=EN
+File=Update3076.exe
+MinimalVer=3.0.0.0
+CurrentVer=3.0.7.6
+
+[0x07]
+Install=1
+Mandatory=0
+ShowInfo=0
+Message=Automatische Aktualisierung von Visual Chart 3
+URLInfo=http://www.visualchart.com/vchartredirect.asp?id=10&lang=DE
+File=Update3076.exe
+MinimalVer=3.0.0.0
+CurrentVer=3.0.7.6
+
+[0x0c]
+Install=1
+Mandatory=0
+ShowInfo=0
+Message=Mise à jour automatique de Visual Chart 3
+URLInfo=http://www.visualchart.com/vchartredirect.asp?id=10&lang=FR
+File=Update3076.exe
+MinimalVer=3.0.0.0
+CurrentVer=3.0.7.6
